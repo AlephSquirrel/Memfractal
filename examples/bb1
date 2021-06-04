@@ -1,1 +1,15 @@
+This is my attempt at a "busy beaver" program.
+It has 1 + and finishes with 3 1s in the memory,
+so BB(1) >= 3.
 
+######v######
+#           #
+# /   \   \ #
+#           #
+#           #
+>*X  *+   / <
+#           #
+#           #
+# \   X   / #
+#           #
+######^######
